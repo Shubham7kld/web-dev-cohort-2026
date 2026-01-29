@@ -2,6 +2,10 @@
 
 A simple and clean portfolio website built with HTML to showcase skills, experience, projects, and contact information.
 
+## Screenshot
+
+![Portfolio Preview](screenshot.png)
+
 ## Features
 
 - Clean and simple design
